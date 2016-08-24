@@ -114,3 +114,12 @@ S = sum(A)
 
 %%% Enter the code for your program below this line
 
+
+
+
+
+%%%%% When you have completed everything, type the following two commands
+%%%%% (without comments) into your command window. 
+
+%%% load handel
+%%% sound(y, Fs)
