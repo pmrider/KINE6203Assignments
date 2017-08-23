@@ -3,7 +3,7 @@
 %
 % Submitted by: (Your name here)
 %
-% Due: September 8, 2016
+% Due: August 31, 2017
 %
 % Instructions: 
 
@@ -45,7 +45,7 @@
 
 
 
-% 6. On the line below figure (line 44), write a command to draw a graph of 
+% 6. On the line below figure, write a command to draw a graph of 
 % x and y. 
 
 x = linspace(-2*pi,2*pi);
@@ -96,7 +96,7 @@ S = sum(A)
 
 % 12. What happens if you type why and hit enter in the command window?
 % Repeat this a few times and copy your result below (Make sure everything
-% commented out).
+% is commented out).
 
 %
 % Answer: 
