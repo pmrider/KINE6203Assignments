@@ -1,9 +1,9 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Assignment 1: Matlab Scavenger Hunt and HelloWorld
 %
-% Submitted by: Patrick Rider
+% Submitted by:
 %
-% Due: August 31, 2017
+% Due: September 6, 2018
 %
 % Instructions: 
 
