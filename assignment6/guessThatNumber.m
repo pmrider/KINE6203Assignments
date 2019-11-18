@@ -12,7 +12,7 @@ function guessThatNumber()  % *** WARNING: CONTAINS INTENTIONAL BUGS! ***
 %              Your job is to find, correct, and mark the errors with
 %              comments describing the bug, how you found it, 
 %              and how you corrected it. Correct the bugs and submit this
-%              corrected file on github. There are between 10 - 12 bugs,
+%              corrected file on github. There are between 9 - 12 bugs,
 %              depending on how you correct them. 
 %
 %      INPUTS: None
