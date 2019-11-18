@@ -4,7 +4,7 @@ function guessThatNumber()  % *** WARNING: CONTAINS INTENTIONAL BUGS! ***
 %
 %        NAME:
 %
-%         DUE: November 2
+%         DUE: End of class, November 21
 %
 %
 % DESCRIPTION: This program is supposed to allow the user to play
