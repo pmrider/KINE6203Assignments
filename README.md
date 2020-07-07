@@ -1,4 +1,4 @@
-# matlabClass
+# KINE 6203 Assignments
 
 This repository will contain all of your assignments for our class. 
 
