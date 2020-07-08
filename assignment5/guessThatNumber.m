@@ -1,10 +1,10 @@
 function guessThatNumber()  % *** WARNING: CONTAINS INTENTIONAL BUGS! ***
 %---------------------------------------------------------------
-%       USAGE: guessThatNumber()
+%       USAGE: guessThatNumber() - Assignment 5
 %
 %        NAME:
 %
-%         DUE: End of class, November 21
+%         DUE: November 12
 %
 %
 % DESCRIPTION: This program is supposed to allow the user to play
