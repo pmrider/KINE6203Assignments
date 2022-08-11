@@ -4,7 +4,7 @@ function guessThatNumber()  % *** WARNING: CONTAINS INTENTIONAL BUGS! ***
 %
 %        NAME:
 %
-%         DUE: November 18
+%         DUE: November 17
 %
 %
 % DESCRIPTION: This program is supposed to allow the user to play
@@ -52,7 +52,7 @@ end
 
 % set highest secret number based on level selected
 
-if level = beginner                     
+if level == beginner %Bug found: I found this by trying to run the code and getting a incorrect use of '=' error message.                      
 
 highest = beginnerHighest;
 

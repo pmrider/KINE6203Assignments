@@ -3,7 +3,7 @@
 %
 % Submitted by:
 %
-% Due: September 16, 2021
+% Due: September 15, 2022
 %
 % Instructions: 
 
@@ -95,8 +95,7 @@ S = sum(A)
 
 
 
-% 12. Create a variable myage and store your age on the day the hurricane is 
-% supposed to impact our area in it. Subtract two from the value of the
+% 12. Create a variable myage and store your age. Subtract two from the value of the
 % variable. Add one to the value of the variable. 
 
 
@@ -117,12 +116,13 @@ S = sum(A)
 
 
 % 16. Create a variable called pounds to store a weight in pounds. Convert this to 
-% kilograms and assign the result to a variable kilos.
+% kilograms using an appropriate calculation or function and assign the result to a variable kilos.
 
 
 
 % 18. Create a variable fTemp to store a temperature in degrees Fahrenheit (F). 
-% Convert this to degrees Celsius (C) and store the result in a variable cTemp.
+% Convert this to degrees Celsius (C) using an appropriate 
+% calculation and store the result in a variable cTemp.
 
 
 
