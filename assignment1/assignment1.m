@@ -166,8 +166,8 @@ S = sum(A)
 % code so that another user can understand what your code does. 
 
 
-
-% 25. In biomechanics, a vector is a set of numbers that indicate 
+%%% Chose the question (a or b) that most closely relates to your area of study %%%
+% 25a.) In biomechanics, a vector is a set of numbers that indicate 
 % both magnitude and direction. Units such as velocity and force are vector 
 % quantities. An example of a vector could be <2.34, 4.244, 5.323> meters/second. 
 % This vector describes the velocity of an object at a certain point in 
@@ -182,7 +182,15 @@ S = sum(A)
 % calculates the unit vector and stores the value in a variable called
 % unitVector. 
 
+% 25b.) In sports marketing and other areas of sports management, 
+% ROI (return on investment) is a key metric when making organizational 
+% decisions. The classic equation for ROI is:
 
+% ROI = (Total Revenues – Total Costs) / Total Costs x 100
+
+% Write some code that prompts the user to input revenues and cost and then 
+% calculates the ROI and stores the value in a variable called
+% ROI.
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%  Part 2: Hello World %%%%%%%%%%%%%%%%%%%%%%%%%%
 
