@@ -4,9 +4,6 @@ function guessThatNumber()  % *** WARNING: CONTAINS INTENTIONAL BUGS! ***
 %
 %        NAME:
 %
-%         DUE: November 17
-%
-%
 % DESCRIPTION: This program is supposed to allow the user to play
 %              the Number Guessing Game, however, it contains bugs.
 %              Your job is to find, correct, and mark the errors with
