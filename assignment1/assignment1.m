@@ -3,7 +3,7 @@
 %
 % Submitted by:
 %
-% Due: August 31, 2023
+% Due: August 28, 2024
 %
 % Instructions: 
 
@@ -200,8 +200,8 @@ originalWeightkg = 100;
 
 
 
-% 25. In sports marketing and other areas of sports management, 
-% ROI (return on investment) is a key metric when making organizational 
+% 25. If you were to start your own lab/business, a key metric that you 
+% might use is ROI when applying for a business loan or making organizational 
 % decisions. The classic equation for ROI is:
 
 % ROI = (Total Revenues – Total Costs) / Total Costs x 100
